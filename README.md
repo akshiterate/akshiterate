@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there!
+
+checkout my website thats build on GLaSS, a server i wrote myself using raw sockets [akshitsachdeva.me](akshitsachdeva.me)
 
 <!--
 **akshiterate/akshiterate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
