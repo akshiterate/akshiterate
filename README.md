@@ -1,6 +1,6 @@
 ## Hello there!
 
-checkout my website thats build on GLaSS, a server i wrote myself using raw sockets [akshitsachdeva.me](akshitsachdeva.me)
+checkout my website thats build on GLaSS, a server i wrote myself using raw sockets and am hosting on an ancient laptop [akshitsachdeva.me](https://akshitsachdeva.me). (if its live)
 
 <!--
 **akshiterate/akshiterate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
